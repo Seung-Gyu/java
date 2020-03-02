@@ -39,7 +39,7 @@ public class Main extends JFrame {
 	 * Create the frame.
 	 */
 	public Main() {
-		setTitle("Main");
+		setTitle("Main"); // d
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(657, 467);
 		setLocationRelativeTo(null);
